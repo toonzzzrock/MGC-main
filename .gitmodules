@@ -1,0 +1,6 @@
+[submodule "App"]
+	path = App
+	url = https://github.com/toonzzzrock/MGC-MeLook.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/toonzzzrock/MGC-hospital-dashboard.git
